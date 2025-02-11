@@ -25,3 +25,7 @@ ahhh
 
 This is link [Markdown learing](https://markdown.com)  
 <https://markdown.com>
+
+
+- [x] learning how to use markdown
+- [ ] study vue
