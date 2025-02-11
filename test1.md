@@ -18,3 +18,7 @@ love **is** bold
 > - Profits were higher than before
 >
 > *Everything* is going according to **plan**
+
+This a **Horizontal Rule**
+---
+ahhh
